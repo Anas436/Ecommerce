@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-  <a href="https://youtu.be/DLeAPn5-TIA" target="_blank">
+  <a>
     <img src="./banner.png" alt="Project Banner">
   </a>
   <br />
@@ -21,20 +21,9 @@
   <br />
 </div>
 
-## 📋 Table of Contents
-
-1. [Introduction](#introduction)
-2. [Tech Stack](#tech-stack)
-3. [Features](#features)
-4. [Quick Start](#quick-start)
-5. [Code Snippets](#code-snippets)
-6. [Assets & More](#assets--more)
-
 ## 🚀 Introduction
 
-In this video tutorial, you'll learn how to build a fully functional ecommerce platform using modern web technologies such as Next.js 15, Tailwind CSS v4, Stripe for payments, and Zustand for state management. This project focuses on building a sleek, responsive frontend with a secure payment flow—without using a backend database like Prisma, Postgres, or Neon.
-
-Watch the tutorial on [YouTube](https://youtu.be/YOUR_VIDEO_LINK).
+In this video tutorial, you'll learn how to build a fully functional e-commerce platform using modern web technologies such as Next.js 15, Tailwind CSS v4, Stripe for payments, and Zustand for state management. This project focuses on building a sleek, responsive frontend with a secure payment flow—without using a backend database like Prisma, Postgres, or Neon.
 
 ## ⚙️ Tech Stack
 

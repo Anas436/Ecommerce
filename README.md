@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/-Zustand-000?style=for-the-badge" alt="Zustand" />
   </div>
   <h3 align="center">Build a Modern Ecommerce Platform</h3>
-  <br />
 </div>
 
 ## 🚀 Introduction
